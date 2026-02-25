@@ -1,5 +1,5 @@
 # LoginCase
 
-Enter valid email
-Enter valid password
+Enter valid Mobilenumber
+Enter valid OTP
 Press the Login button
