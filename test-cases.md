@@ -2,4 +2,4 @@
 
 Enter valid Mobilenumber
 Enter valid OTP
-Press the Login button
+Press the submit button
